@@ -8,3 +8,4 @@ The other document talks about the cons of blockchain and its negative impacts o
 
 Performed data collection and imputation to compare the two text documents and what they are trying to convey. Sentinment analysis using nrc, bing sentiment analysis and bigraph were used to understand the dataset and the type of emotion the data is trying to convey. Based on these insights generated, detailed analysis was prepared to provide recommendations.
 
+Kindly go through all the documents for a much more detailed and scripted analysis.
