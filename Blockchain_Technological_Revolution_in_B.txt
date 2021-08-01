@@ -1,0 +1,410 @@
+Blockchain: Technological Revolution in Business and Administration
+
+Ehab Khalifa
+Future Center for Advanced Research and Studies
+
+Blockchain is the Technology which allows assets to be transferred from one party to another
+simultaneously and without needing a third party, guaranteeing utmost security. In addition, it is a
+multiple global ledgers, shared by all people around the world, which enables them to do all kinds of
+transactions (Sutardja Center for Entrepreneurship & Technology Technical Report, 2015) in real time
+and without falling prey to fraud or manipulation. Besides, it is the biggest data bases, accessible to all
+people (BigchainDB, 2016) and containing verified assets which can be safely exchanged.
+
+Blockchain will have a huge effect on deferent levels, it will change the way all people adopt to deal
+through decades and threat traditional intermediary parties, on the other side it faces many obstacles
+stumbling blocks to be fully operated in different fields. This paper try to address the mechanism of
+blockchain technology, and how it works in simple words, then determine the possible applications of
+blockchain, and how to make best use of this technology, and finally the threats and challenges of
+blockchain.
+
+WHY BLOCKCHAIN IS A REVOLUTION?
+
+The blockchain system was first used in 2008 as the main platform for Bitcoin's virtual currency.
+Thanks to Blockchain, this cryptocurrency has won users’ trust, so far at least. It is a common
+misconception that Bitcoin and Blockchain are one and the same; the truth is that the latter can be
+regarded as the backbone of the former, which distinguishes it from other digital currency systems
+(KAYE Scholar, 2018). It is worth mentioning that the Blockchain system can be used in many other
+applications.
+
+Traditional transactions and asset transfer usually involve mediators. These can be banks, necessary
+for money transfer, a ministry entitled to register transactions, a real estate publicity department to verify
+ownership, a real estate broker, etc. These intermediary entities are usually paid for their services.
+Blockchain provides an alternative where files are transferred, stored and managed with no need for such
+mediators. To be more accurate, the real mediator in this case would be millions of computers connected
+to the chain. The transaction moves from one computer to another in an encrypted form that guarantees
+safety, rules out the possibility of manipulation, forgery or fraud and secures registration priority rights.
+This poses a threat to millions of people around the world who would be more than likely to lose their
+Jobs because of this system.
+
+40 American Journal of Management Vol. 19(2) 2019
+As a matter of fact, what makes Blockchain one of the driving forces of the smart revolution which
+humanity is witnessing, as well as one of the most important tools that would help people manage their
+life better, is the following:
+
+1,
+
+The ability to transfer original files: The typical situation when transferring files is that only
+copies of these files are transferred. For instance, when an email, or a file, is sent via the
+internet, the data sent can be retained by the sender, as what is sent is actually a copy, not an
+original. This is undoubtedly not suitable when the thing to be transferred is money; you
+simply cannot send one hundred dollars to someone and keep them for yourself at the same
+time. This also applies to voting, intellectual property rights, patents and to cases where one
+buys the original files of songs and movies so that no other party can have access to them
+(Tapscott, 2018).
+
+Immunity to manipulation: Perhaps more important is Blockchain’s immunity to
+manipulation. Blockchain prevents fraud during and after transactions. It guarantees the
+security of such processes as transferring money, parcels, containers, etc., registering
+contracts or property, shipping goods, routing and doing government transactions. Depending
+on Blockchain prevents any attempt of manipulation that would constitute a threat to the
+country’s financial resources or result in denying certain parties their right to a level playing
+field. Thus, depending on Blockchain would play an essential role in combating corruption as
+it ensures that transactions will not be altered, modified or deleted later. This would help
+create an atmosphere of confidence among users (Sutardja Center for Entrepreneurship &
+Technology Technical Report, 2015).
+
+HOW DOES BLOCKCHAIN WORK?
+
+Blockchain functions according to three operating principles that together constitute the basis
+underlying the system and govern all transactions among users. These are:
+
+1,
+
+The open ledger principle:
+
+This refers to the accessibility of the information in Blockchain to everyone. In other
+words, everyone on a certain chain would be able to see everyone else’s assets. For instance,
+if the chain is a money transfer chain everyone on it can see the others’ money. However,
+people can choose not to reveal their identities, as Blockchain makes it possible for them to
+use nicknames suggested by the chain. Thus, while it would be difficult to get information
+about others’ identities, information about their assets would be available to all users with
+utmost transparency (Iansiti and Lakhani, 2017).
+
+Perhaps an example would be useful here. If (A) wishes to transfer ten dollars to (B), all
+the chain users will be able to know whether (B) has ten dollars. In case s/he does not, the
+transaction will not be completed as people would refrain from responding. If s/he does have
+the money then the person nearest him, say (C), will give (B) the money in return for a
+percentage of the money that (A) wants to transfer.
+
+One disadvantage to this operating principle is that 1t makes it possible for people to
+know personal information about others on the chain. Having access to a user’s ledger makes
+it possible to know, for example, that he 1s a family man and that he transfers money to his
+family members (wife, children, etc.). It also makes it possible for people to know how much
+money he has and when exactly he transfers money to his wife, etc. Such information can be
+utilized in criminal activities targeting this user’s family.
+
+Distributed database:
+
+The main objective of this principle is overcoming centralization. This is simply because
+the principle makes it impossible for only one party, be it a server, a computer, etc., to have
+control over the chain. The chain is actually distributed among all its users around the world.
+Anyone can easily download the chain, have access to it and be part of it. This means more
+
+American Journal of Management Vol. 19(2) 2019 41
+safety as hackers cannot tamper with, or hack, the chain unless they hack every single user of
+it (lansiti and Lakhani, 2017).
+3. Mining process:
+
+This means that millions of computers around the world take part in making sure that a
+given transaction is correct before 1t can be completed. If a user wanted to transfer money to
+another via the blockchain the transaction would not be completed, even if the money was
+available, unless mining occurred first. Miming means employing the abilities of the
+computers in searching for the correct “Hash” that distinguishes the transaction so that it can
+be completed successfully. Using their computers, miners around the world engage in
+sophisticated mathematical processes with the aim of arriving at the correct hash that links
+the current transaction to the previous transaction and distinguishes it from other transactions
+occurring in the chain. Mining is undertaken with a view to making sure that all the
+transactions entering the chain have taken the same time that the it took before in previous
+blocks (Kaspersky, 2017).
+
+Once the correct hash is arrived at, the new transaction is permitted into the chain and is
+added to the other transactions in the blocks, eventually forming a blockchain
+(bitcoinexchangeguide, 2018). This makes it difficult for hackers to hack the system or even
+manipulate it, as doing such things would require hacking all the computers at the same time.
+Once the transaction is verified it can be completed. The miner who arrives at the correct
+hash gets a percentage of the transferred money, by way of reward. If the matter involves
+transferring Bitcoin currency the miner gets a reward for taking part in the mining process.
+
+Any blockchain consists of four main elements: the block (which is the unit of which the
+chain is made), information, hash and timestamp. Following are more details:
+
+e The block: A block is a number of processes or tasks that must be undertaken
+inside the chain. Examples are money transfer, data registration, following up a
+case, etc. Usually each block can accommodate a specific number of processes
+and information. No additional information or processes are accepted. Once the
+processes in question are completed a new block, related to what has gone
+before, 1s created. The main objective here 1s to avoid any fake processes that can
+cause the chain to freeze or be inoperative.
+
+e Information: This refers to subsidiary processes that take place inside a given
+block. In other words, it is a single order that occurs in the block and, together
+with other orders and information, constitutes the block itself.
+
+e Hash: This can be described as the chain’s DNA, occasionally referred to as the
+digital signature. It is a code produced via an algorithm in the blockchain
+software, called “Hash function” (Northcutt, 2018).
+
+A hash performs the following functions:
+
+e Distinguishing the chain from other chains: as each chain has a unique hash.
+
+e Distinguishing one block from another: as, again, each block has its own hash.
+
+e Distinguishing each piece of information by means of a unique hash.
+
+e Linking the chain’s blocks to one another: as each block is linked to both the
+preceding hash and the following hash. Thus, the hash moves in one direction
+only-namely, from the block in question to the one next to it, and so on. This is
+why a hash renders ineffectual any attempt to make alterations to the
+already created blocks.
+
+4. Timestamp: Or the time which any process inside the chain has taken (Parker, 2018).
+
+42 American Journal of Management Vol. 19(2) 2019
+APPLICATIONS OF BLOCKCHAIN
+
+In addition to being used in transferring money, both traditionally and virtually, a Blockchain can
+serve many, different purposes. These will be explained in the following section:
+
+1. Registering property: A Blockchain can be used in registering property, be it personal assets
+(e.g. real estate, jewelry, precious stones, cars, etc.), patents, or intellectual property rights
+( of books, songs, poems, etc.). It can even be used in registering ordinary ideas which
+cannot be regarded as innovations or accomplishments in the usual sense of the word. In
+brief, A Blockchain can be used in registering whatever one owns and wishes to advertise
+or register with the aim of preventing others from claiming it, so that s/he can sell it later
+or use it in transactions via the Blockchain system (Malinger, 2017).
+
+2. Registering transactions: This applies to transactions between individuals, inside companies
+or inside governmental or non-governmental institutions. This is simply because the
+Blockchain system allows everyone to insert all kinds of data, whether these data have to do
+with government transactions (Medium, 2017), production line tracking, planes and tankers
+routing, financial transactions registering, property transfer, and customer service follow-up,
+to name but a few of the kinds of transactions that the system can be used for registering. This
+facilitates detecting gaps and weak points, combating corruption and controlling quality.
+
+3. Facilitating mediation: The Blockchain system replaces traditional intermediary parties.
+Instead of banks (in money transfer), real estate departments (in registering property), traffic
+departments (in registering vehicles), brokers (in financial transactions) and mediator service
+companies (such as Uber), millions of people around the world who use the Blockchain act as
+mediators, benefiting from the financial outcome which traditional mediators would have got
+in return for their services. Small as it is, the outcome the Blockchain users achieves equal
+distribution of wealth.
+
+The processes involved in using the Blockchain system can be clarified via some practical examples,
+as follows:
+
+In case an individual wishes to buy a piece of land from another, s/he accesses the ledger where all
+users have registered their assets and engages in the transaction of buying the needed piece of land from
+its owner. Based on the aforementioned principle of open ledger as it is, the Blockchain system gives the
+potential buyer access to a detailed history of the piece of land in question, including the exact dates on
+which it was sold and bought till 1t came to be owned by its current owner.
+
+Once negotiations end and all is settled, the current owner transfers the ownership of the piece of land
+to the new owner via the same ledger. Not only will all users witness the transaction but they will actually
+contribute to its success as verifying it is no longer the responsibility of the real estate department but
+these users’ responsibility. There will be no need to consult the city and neighbourhood services
+department in charge of information concerning land ownership and transactions, simply because large
+numbers of miners, even millions of them in some cases, will take part im the verification of the
+transaction. Though they will be paid for their efforts necessary to guarantee the security of the
+transaction, what they get is far less than what traditional verification entities get. This enhances the
+principle of equal distribution of wealth, no matter how small this “wealth” is.
+
+Not only can the Blockchain system play an effective role in transferring the piece of land’s
+ownership, but it can also be utilized in transferring the buyer’s money to the seller with no need for
+banks and like mediators. This can be achieved through depending on the medium using Blockchain, such
+as Due.com. Depending on such a nontraditional mediator saves both costs and time; while traditional
+money transfer can take three to seven days, transfer via Blockchain only takes a few minutes and no
+mediation fees are paid; the user only pays for using the system, in which case the fees are low.
+
+An important question in this connection is: can the ledger be hacked and can the data be tampered
+with? The answer is: this is very unlikely to happen since the ledger is not a single central database but a
+database distributed among users around the world. In other words, each user has his/her own copy of the
+ledger. Consequently, in order for a hacker to hack a transaction occurring in the ledger s/he has to be
+
+American Journal of Management Vol. 19(2) 2019 43
+able to hack each and every user of the ledger, on condition that hacking them all should occur
+simultaneously. This is extremely difficult, if not impossible, to happen, because the hacking attempt,
+which will naturally take the form of a transaction, will not be completed unless all users confirm and
+register it.
+
+Blockchain can also be employed in sophisticated administrative processes, such as tracking a
+container ship travelling from, say, China to Europe but has to stop at a number of ports for such purposes
+as unloading and loading goods, getting fuel, getting food for the crew, etc. The first step here would be
+creating a block for the journey-namely, the Genius block. This will contain all the information about the
+starting point of the journey and the containers that the ship 1s carrying. The hash mechanism creates the
+hash that will distinguish this block and connect all the chain’s blocks to one another. It will also create
+the timestamp for performing the transaction in the chain.
+
+Once the ship arrives at the first port, where it will unload some contamers before it resumes its
+journey, a new block will be created in the chain, containing information about the containers which have
+been unloaded, the hash of the new block and the timestamp. The second hash is henceforth linked to the
+first hash so that any attempt to make alterations to the information concerning the starting point of the
+journey will be rejected by the chain.
+
+By the time the ship reaches its fmal destination a large number of blocks will have been
+accumulated. Each of these blocks will represent a point where a number of containers were unloaded,
+and each of these points will be linked to a hash which, in return, will be linked to all the preceding and
+following hashes. Thus, all hashes will be moving in one direction, from the original block to the last
+block. Because no alterations are allowed, failure to unload containers, or failure to unload them in the
+right port, can be easily detected, and the party accountable can be easily identified. In addition, this
+method prevents stealing and scamming, as each container is registered in the chain and all the details of
+its route are retraceable. As a result, if a container contained smuggled goods or drugs, the doer, or at least
+the party that facilitated such a crime through negligence, could be easily identified.
+
+BENEFITS OF USING THE BLOCKCHAIN TECHNOLOGY
+
+Blockchain offers its users many advantages. As an administrative and financial system, it is capable
+of fulfilling many purposes, meanwhile saving time, effort and costs. It also makes it possible to monitor
+all operations and processes and detect their initiators, guaranteeing a high degree of security. Besides, it
+remarkably reduces the risk of fraud and manipulation, thanks to the hash mechanism, here are the
+following:
+
+1. Offering an effective alternative to bureaucratic red tape: Using the Blockchain system in
+government departments means more efficiency, as all formation concerning transactions,
+as well as documents, certificates, etc., are assigned definite positions in the chain, and can be
+easily retrieved whenever need arises. This helps avoid time-consuming red tape associated
+with traditional, bureaucratic government transactions (Williams, 2017).
+
+2. Guaranteeing quality assurance: The Blockchain allows users to keep track of the
+transaction’s progress status, which results in high-quality services. For instance, using
+Blockchain in a food production line guarantees that the final products will be characterized
+by their remarkable quality (Agrawal, 2018).
+
+3. Combating corruption: The Blockchain is almost immune to fraud and manipulation attempts,
+simply because it does not allow users to modify or delete transactions. As a matter of fact,
+the system keeps track of all the steps of transactions, as well as of the exact time each step
+takes place. In case an attempt of manipulation occurs the system rejects the transaction and
+prevents its initiator from re-trying. This helps minimize the threat of corruption.
+
+4. Equal distribution of wealth: Using the Blockchain system puts an end to the monopoly
+certain corporations and organizations hold on wealth, guaranteeing that everyone has a fair
+share of wealth, since all people around the world can take part in managing transactions and
+get paid for this.
+
+44 American Journal of Management Vol. 19(2) 2019
+POTENTIAL THREATS OF BLOCKCHAIN
+
+Despite its various advantages, the Blockchain technology can pose certain threats, among the most
+serious of which are the following:
+
+1,
+
+Endangering mediating jobs and institutions: This is by far the most serious threat of the
+Blockchain system as far as monetary, administrative and intermediary sectors are concerned.
+Depending on the Blockchain system means that, gradually, the need for such sectors would
+diminish, and they could eventually be “extinct”, so to speak. This situation 1s similar to the
+implications of industrialization for certain crafts and professions which are now history
+because of the many technological advances that have made them dispensable. Unless the
+aforementioned sectors adapt to the new situation, they will meet a similar destiny (Cardone,
+2017).
+
+Abuse of the system: The Blockchain system can be used in illegal activities, such as drug
+dealing, prostitution, arms trafficking, etc. Needless to say, this constitutes a great threat to
+society’s security and individuals’ welfare and interests.
+
+The possibility of stealing users’ personal information: Though Blockchains are immune to
+manipulation from outside the chain, users in the chain can steal the personal information of
+other users and use it in manipulating these users’ assets, selling them, or even endangering
+these users’ jobs, etc.
+
+Endangering service availability and accessibility: This is still a potential threat that can
+paralyze the chain, despite the fact that the system is designed so as to prevent such a risk
+through limiting the capacity of each block (Medium, 2017).
+
+Hacking: Though, as already mentioned, it is rather difficult to hack Blockchain because this
+requires that all users and miners be hacked simultaneously, hacking remains a potential
+threat. This is particularly true for chains with relatively small numbers of users and miners.
+
+CHALLENGES AND STUMBLING BLOCKS
+
+Perhaps it is worth noting that the Blockchain technology has not gained wide currency and
+acceptance among people yet. It has not yet invaded many fields where it would be of great use.
+Following are some of the stumbling blocks facing the Blockchain Technology:
+
+1,
+
+Problems that have to do with popularity: Though the Blockchain technology has been in use
+for more than ten years, it did not gain enough popularity among users. It was not “openly”
+used for any purposes other than exchanging Bitcoin currency. Therefore, it can be said that
+the system has not gained wide acceptance yet, the reason probably being the technical
+sophistication of the system which makes it difficult to use (Kasireddy, 2017).
+
+Problems pertaining to replacing the old traditional systems with the new one: These have to
+do with the stability that the old systems have acquired in the course of time due to the fact
+that, despite their shortcomings, they have always done the job efficiently. Banks and money
+transfer companies, registration offices and like institutions have been operating for decades,
+gaining acceptance, authority and credibility over the years, which makes it difficult for the
+relatively new Blockchain system to simply take over from them, especially in some sectors.
+Lack of trust: People may feel less willing to trust the Blockchain system because
+information about its designer is lacking. All we know is that in 2008, with the world
+financial crisis, a person supposedly called Satoshi Nakamoto devised a new system for
+exchanging currency without needing mediation from banks and financial institutions. The
+system, which has come to be known as Blockchain, has been used ever since for exchanging
+Bitcoin currency.
+
+Issues that have to do with accountability: The aforementioned avoidance of centralization
+has its own shortcomings. In case faults, hacking or scam occur, it will be impossible to
+decide who is responsible since there is no one party or entity that can be considered in
+
+American Journal of Management Vol. 19(2) 2019 45
+charge of controlling and managing the system and consequently held accountable for the
+situation.
+
+5. Issues that have to do with cost: doing the needed transactions and making transfers need
+many computers with certain specifications. Besides, these computers consume a lot of
+energy, which should be taken into consideration, given the recent considerable increase in
+energy prices.
+
+REFERENCES
+
+Agrawal, J. (2018, January 18). 8 Benefits of Blockchain to Industries Beyond Cryptocurrency. Retrieved
+from https://www.entrepreneur.com/article/306420
+
+An Analysis of the Opportunities and Threats in Blockchain Technology (2018, February 13). Retrieved
+from https://medium.com/the-mission/an-analysis-of-the-opportunities-and-threats-in-blockchain-
+technology-6f55d647be3e
+
+A Scalable Blockchain Database (2016). BigchainDB, Berlin, Germany, June 8, p1.
+
+Betsy, P. (2017, May 31). Blockchain — Distributed Ledger Technology Application Benefits? Retrieved
+from https://bitcoinexchangeguide.com/blockchain-distributed-ledger-technology/
+
+BlockChain Technology (2015). Sutardja Center for Entrepreneurship & Technology Technical Report.
+Brekely University of California, October 16, p1.
+
+BlockChain Technology (2017), Ob cit, p5
+
+Eaton-Cardone, M. (2017, January 4). How blockchain will affect financial services employment.
+Retrieved from https://news.efinancialcareers.com/gulf-en/269710/how-blockchain-will-affect-
+financial-services-employment/
+
+Eyal Malinger, B. (2017, November 18). Blockchain could ‘change everything’ for real estate. Retrieved
+from https://venturebeat.com/2017/11/18/blockchain-could-change-every thing-for-real-estate/
+
+Tansiti, M., & Lakhani, K. R. (2017). The Truth About Blockchain. Retrieved from
+https://hbr.org/2017/0 1/the-truth-about-blockchain
+
+Kasireddy, P. (2017, December 11). Fundamental challenges with public blockchains. Retrieved from
+https://medium.com/@preethikasireddy/fundamental-challenges-with-public-blockchains-
+253c800e9428
+
+Northceutt, 8. (2018). Hash Functions, SANS™ Technology Institute. Retrieved from
+https://Awww.sans.edu/cy ber-research/security-laboratory/article/hash-functions
+
+Parker, L. (2015, February 10). Timestamping on The Blockchain. Retrieved from
+https://bravenewcoin.com/news/timestamping-on-the-blockchain/
+
+Six myths about blockchain and Bitcoin: Debunking the effectiveness of the technology (2017, August
+18). Kaspersky. Retrieved from https:/(www.kaspersky.com/blog/bitcoin-blockchain-
+issues/18019/
+
+Tapscott, D. (2016, June). How the blockchain is changing money and Business. TED Summit. Retrieved
+from
+https:/Awww.ted.com/talks/don_tapscott_how_the_blockchain_is changing money_and_business
+
+Williams, S. (2017, December 11). 5 Big Advantages of Blockchain, and I Reason to Be Very Worried,
+Fool. Retrieved from https://www.fool.com/investing/2017/12/11/5-big-advantages-of-
+blockchaim-and-1-reason-to-be.aspx
+
+46 American Journal of Management Vol. 19(2) 2019
+
